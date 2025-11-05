@@ -3,30 +3,31 @@
 *Independent Researcher*  
 **November 2025**
 
-> **A single fundamental scalar field, Φ₁, unifies gravity, spacetime, particle physics, cosmology, and black holes.**  
-> **No free parameters. All predictions fixed by data.**
+> **Time is the first dimension (D1). The three spatial dimensions emerge from it.**  
+> **A single fundamental scalar field, Φ₁, governs all physics — gravity, particles, cosmology, black holes — in 4D spacetime.**  
+> **No extra dimensions. No fine-tuning. All predictions fixed by data.**
 
 ---
 
 ## **The 7 Complete Papers** (Recommended Reading Order)
 
-| # | Title | Platform Links |
-|---|-------|----------------|
-| **1** | **Time as the First Dimension and as Freedom of Movement, and the Emergence of Space** | [viXra](https://vixra.org/abs/...) • [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
-| **2** | **Mathematical Formalism of the D1 Field Theory** | [viXra](https://vixra.org/abs/...) • [Figshare](https://figshare.com/...) |
-| **3** | **The D1 Unified Field Theory** | [viXra](https://vixra.org/abs/...) • [Figshare](https://figshare.com/...) |
-| **4** | **The D1 Theory of Black Holes** | [viXra](https://vixra.org/abs/...) • [Figshare](https://figshare.com/...) |
-| **5** | **The D1 Field: Unified Dynamics and the Complete Cosmological History (Big Bang to Today)** | [viXra](https://vixra.org/abs/...) • [Figshare](https://figshare.com/...) |
-| **6** | **The D1 Cosmological Model: Unification of Baryogenesis and Cosmic Acceleration** | [viXra](https://vixra.org/abs/...) • [Figshare](https://figshare.com/...) |
-| **7** | **The D1 Theory of Baryogenesis and Cosmic Acceleration** | [viXra](https://vixra.org/abs/...) • [Figshare](https://figshare.com/...) |
+| # | Title | Figshare • Zenodo |
+|---|-------|-------------------|
+| **1** | **Time as the First Dimension and as Freedom of Movement, and the Emergence of Space** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
+| **2** | **Mathematical Formalism of the D1 Field Theory** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
+| **3** | **The D1 Unified Field Theory** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
+| **4** | **The D1 Theory of Black Holes** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
+| **5** | **The D1 Field: Unified Dynamics and the Complete Cosmological History (Big Bang to Today)** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
+| **6** | **The D1 Cosmological Model: Unification of Baryogenesis and Cosmic Acceleration** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
+| **7** | **The D1 Theory of Baryogenesis and Cosmic Acceleration** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
 
-> *All papers are open access. Start with #1 for foundational concepts.*  
+> *All papers are open access. Start with #1 for the foundational concept: time is D1, space emerges.*  
 > *Feedback welcome: Andyc316@hotmail.com*
 
 ---
 
 ## **Key Predictions of the D1 Theory**  
-*(All derived from one scalar field — no tuning)*
+*(All derived from one scalar field in 4D — no tuning)*
 
 | Prediction | Value / Effect | Observational Test |
 |-----------|----------------|---------------------|
@@ -39,17 +40,23 @@
 | **Gravitational Wave Speed** | `c_g = c` (exact) | Confirmed by GW170817 |
 | **Quantum Loop Corrections** | `ΔV⁽¹⁾ ∼ 10⁻²⁴⁰ eV⁴` | Dominant only at `M → m_D1` |
 | **Information Paradox** | **Resolved** — unitary via D1 microstates | No loss during evaporation |
-| **Emergent Spacetime** | 3D space folds when `Φ₁ > 10` | BH interiors = de Sitter |
+| **Emergent Spacetime** | **3 spatial dimensions emerge from 1 time dimension (D1)** | BH interiors = de Sitter; space folds when `Φ₁ > 10` |
+| **Time as Absolute Freedom** | D1 = freedom of movement | Explains arrow of time, entropy, causality |
 | **UV Cutoff** | `Λ_D1 = 10¹⁹ GeV` (physical) | Finite, no divergences |
 | **Particle Masses** | All SM masses from Φ₁ coupling | Emergent from one action |
-| **Space as Freedom of Movement** | Time = D1, space = 3D freedom | Explains why time ≠ space |
-| **Wave-Trough Collapse** | Triggers inflation & dimension unfolding | CMB flatness, homogeneity |
+| **Wave-Trough Collapse** | Triggers inflation & spatial unfolding | CMB flatness, homogeneity |
 | **Non-Evolving ΛCDM Benchmark** | `w = -1` excluded | Direct, non-adjustable calculation |
+| **Black Hole Core** | Pure D1 condensate | Regular, non-singular interior |
+| **Late-Time Acceleration** | From Φ₁ kinetic term | No dark energy field needed |
+| **Baryogenesis** | From Φ₁ phase transition | `η` fixed by CMB |
+| **4D Only** | **No extra dimensions** — 3 space + 1 time = 4 total | **Time is fundamental; space is emergent** |
 
 ---
 
 ## **Why D1 Stands Out**
-- **One field. One action. No extra dimensions.**
+- **One field. One action. 4D spacetime.**
+- **Time is D1 — the first dimension. The three spatial dimensions emerge from it.**
+- **Reverses the standard view: space does not generate time — time generates space.**
 - **No fine-tuning** — all parameters fixed by data (CMB, SNIa, BAO, BBN).
 - **Falsifiable** — clear, unique signals (burst, w(z), no remnants).
 - **Unitary, regular, quantum-consistent** from UV to IR.
