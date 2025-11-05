@@ -13,13 +13,15 @@
 
 | # | Title | Figshare • Zenodo |
 |---|-------|-------------------|
-| **1** | **Time as the First Dimension and as Freedom of Movement, and the Emergence of Space** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
-| **2** | **Mathematical Formalism of the D1 Field Theory** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
-| **3** | **The D1 Unified Field Theory** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
-| **4** | **The D1 Theory of Black Holes** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
-| **5** | **The D1 Field: Unified Dynamics and the Complete Cosmological History (Big Bang to Today)** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
-| **6** | **The D1 Cosmological Model: Unification of Baryogenesis and Cosmic Acceleration** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
-| **7** | **The D1 Theory of Baryogenesis and Cosmic Acceleration** | [Figshare](https://figshare.com/...) • [Zenodo](https://zenodo.org/...) |
+| **1** | **Time as the First Dimension and as Freedom of Movement, and the Emergence of Space** | [Figshare](https://figshare.com/articles/preprint/Time_as_the_First_Dimension_and_as_Freedom_of_Movement_and_the_Emergence_of_Space/10.6084/m9.figshare.29561714) • [Zenodo](https://doi.org/10.5281/zenodo.16793670) |
+| **2** | **Mathematical Formalism of the D1 Field Theory** | [Figshare](https://figshare.com/articles/preprint/Mathematical_Formalism_of_the_D1_Field_Theory/10.6084/m9.figshare.29605928) • [Zenodo](https://doi.org/10.5281/zenodo.16794739) |
+| **3** | **The D1 Unified Field Theory** | [Figshare](https://figshare.com/articles/preprint/The_D1_Unified_Field_Theory/10.6084/m9.figshare.30019630) • [Zenodo](https://doi.org/10.5281/zenodo.17014142) |
+| **4** | **The D1 Theory of Black Holes** | [Figshare](https://figshare.com/articles/preprint/The_D1_Theory_of_Black_Holes/10.6084/m9.figshare.30096706) • [Zenodo](https://doi.org/10.5281/zenodo.17094708) |
+| **5** | **The D1 Theory of Baryogenesis and Cosmic Acceleration** | [Figshare](https://figshare.com/articles/preprint/The_D1_Theory_of_Baryogenesis_and_Cosmic_Acceleration/10.6084/m9.figshare.30108277) • [Zenodo](https://doi.org/10.5281/zenodo.17101554) |
+| **6** | **The D1 Cosmological Model: Unification of Baryogenesis and Cosmic Acceleration** | [Figshare](https://figshare.com/articles/preprint/The_D1_Cosmological_Model_Unification_of_Baryogenesis_and_Cosmic_Acceleration/10.6084/m9.figshare.30238702) • [Zenodo](https://doi.org/10.5281/zenodo.17229105) |
+| **7** | **The D1 Field: Unified Dynamics and the Complete Cosmological History (Big Bang to Today)** | [Figshare](https://figshare.com/articles/preprint/The_D1_Field_Unified_Dynamics_and_the_Complete_Cosmological_History_Big_Bang_to_Today/10.6084/m9.figshare.30350296) • [Zenodo](https://doi.org/10.5281/zenodo.17344650) |
+
+
 
 > *All papers are open access. Start with #1 for the foundational concept: time is D1, space emerges.*  
 > *Feedback welcome: Andyc316@hotmail.com*
