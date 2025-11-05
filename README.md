@@ -68,7 +68,7 @@
 ## **Contact & Feedback**
 **Andrew Cottham**  
 Email: [Andyc316@hotmail.com](mailto:Andyc316@hotmail.com)  
-GitHub: [github.com/cottham/D1-Theory](https://github.com/cottham/D1-Theory)  
+GitHub: [github.com/cottham/D1-Theory](https://github.com/Andyc316/D1-Theory)  
 Academia.edu: [Search "Andrew Cottham D1"](https://academia.edu)
 
 > **Physicists, students, skeptics — I welcome all feedback. What breaks first?**
