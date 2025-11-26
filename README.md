@@ -18,7 +18,7 @@
 | **3** | **The D1 Unified Field Theory** | [Figshare](https://doi.org/10.6084/m9.figshare.30019630) • [Zenodo](https://doi.org/10.5281/zenodo.17014142) |
 | **4** | **The D1 Theory of Black Holes – Version 2 (November 2025)** – Regular condensate-core solutions and quantitative resolution of the information paradox | **[Figshare v2](10.6084/m9.figshare.30096706)** • **[Zenodo v2]([(https://doi.org/10.5281/zenodo.17693589))** |
 | **5** | **The D1 Theory of Baryogenesis and Cosmic Acceleration** | [Figshare](https://doi.org/10.6084/m9.figshare.30108277) • [Zenodo](https://doi.org/10.5281/zenodo.17101554) |
-| **6** | **The D1 Cosmological Model: Unification of Baryogenesis and Cosmic Acceleration** | [Figshare](https://doi.org/10.6084/m9.figshare.30238702) • [Zenodo](https://doi.org/10.5281/zenodo.17229105) |
+| **6** | **The D1 Cosmological Model: Unification of Baryogenesis and Cosmic Acceleration -Version 2** | [Figshare](https://doi.org/10.6084/m9.figshare.30238702) • [Zenodo](https://doi.org/10.5281/zenodo.17716527) |
 | **7** | **The D1 Field: Unified Dynamics and the Complete Cosmological History (Big Bang to Today)** | [Figshare](https://doi.org/10.6084/m9.figshare.30350296) • [Zenodo](https://doi.org/10.5281/zenodo.17344650) |
 
 
