@@ -16,9 +16,9 @@
 | **1** | **Time as the First Dimension and as Freedom of Movement, and the Emergence of Space** | [Figshare](https://doi.org/10.6084/m9.figshare.29561714) • [Zenodo](https://doi.org/10.5281/zenodo.16793670) |
 | **2** | **Mathematical Formalism of the D1 Field Theory** | [Figshare](https://doi.org/10.6084/m9.figshare.29605928) • [Zenodo](https://doi.org/10.5281/zenodo.16794739) |
 | **3** | **The D1 Unified Field Theory** | [Figshare](https://doi.org/10.6084/m9.figshare.30019630) • [Zenodo](https://doi.org/10.5281/zenodo.17014142) |
-| **4** | **The D1 Theory of Black Holes – Version 2 (November 2025)** – Regular condensate-core solutions and quantitative resolution of the information paradox | **[Figshare v2](10.6084/m9.figshare.30096706)** • **[Zenodo v2]([(https://doi.org/10.5281/zenodo.17693589))** |
+| **4** | **The D1 Theory of Black Holes – Version 2 (November 2025)** – Regular condensate-core solutions and quantitative resolution of the information paradox | **[Figshare v2](10.6084/m9.figshare.30096706)** • **[Zenodo v2](https://doi.org/10.5281/zenodo.17693589)** |
 | **5** | **The D1 Theory of Baryogenesis and Cosmic Acceleration** | [Figshare](https://doi.org/10.6084/m9.figshare.30108277) • [Zenodo](https://doi.org/10.5281/zenodo.17101554) |
-| **6** | **The D1 Cosmological Model: Unification of Baryogenesis and Cosmic Acceleration -Version 2** | [Figshare](https://doi.org/10.6084/m9.figshare.30238702) • [Zenodo](https://doi.org/10.5281/zenodo.17693589) |
+| **6** | **The D1 Cosmological Model: Unification of Baryogenesis and Cosmic Acceleration -Version 2** | [Figshare](https://doi.org/10.6084/m9.figshare.30238702) • [Zenodo](https://doi.org/10.5281/zenodo.17716527) |
 | **7** | **The D1 Field: Unified Dynamics and the Complete Cosmological History (Big Bang to Today)** | [Figshare](https://doi.org/10.6084/m9.figshare.30350296) • [Zenodo](https://doi.org/10.5281/zenodo.17344650) |
 | **8** | **The Universe from One Number: How Today’s Measured Dark-Energy Density Encodes 63 e-folds of Starobinsky-like Inflation and the Entire Cosmic History** | [Figshare](https://doi.org/10.6084/m9.figshare.30762899) • [Zenodo](https://doi.org/10.5281/zenodo.17790468) |
 
