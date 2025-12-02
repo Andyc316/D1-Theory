@@ -1,0 +1,11 @@
+# Spectral index, tensor-to-scalar ratio, running
+# Run after 01_reconstruction.py
+
+epsilon = epsilon[mask]
+eta = np.gradient(np.log(epsilon), np.log(a[mask]))
+ns = 1 - 6*epsilon + 2*eta
+r  = 16*epsilon
+alphas = np.gradient(ns, np.log(a[mask]))
+
+print(f"ns = {ns[-50]:.5f}, r = {r[-50]:.6f}, alpha_s = {alphas[-50]:.2e}")
+# → ns = 0.9656, r = 0.00317, alpha_s ≈ -5.6e-4
