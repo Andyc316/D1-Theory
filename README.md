@@ -3,10 +3,9 @@
 *Independent Researcher*  
 **November 2025**
 
-> **Time is the first dimension (D1). The three spatial dimensions emerge from it.**  
-> **A single fundamental scalar field, Φ₁, governs all physics — gravity, particles, cosmology, black holes — in 4D spacetime.**  
-> **No extra dimensions. No fine-tuning. All predictions fixed by data.**
-
+D1 Theory is a speculative research framework in which time is treated as the primary dimension and spatial structure emerges dynamically from an underlying scalar degree of freedom.
+This repository collects the papers, calculations, and code used to explore its cosmological and black-hole implications.
+The aim is to present the framework clearly, compare it with standard cosmology, and identify falsifiable predictions.
 ---
 
 ## **The 7 Complete Papers** (Recommended Reading Order)
