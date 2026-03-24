@@ -8,7 +8,7 @@ This repository collects the papers, calculations, and code used to explore its 
 The aim is to present the framework clearly, compare it with standard cosmology and gravitational theory, and identify falsifiable predictions.
 ---
 
-## **The 7 Complete Papers** (Recommended Reading Order)
+## **The 8 Complete Papers** (Recommended Reading Order)
 
 What this repository contains
 research papers developing the D1 framework
@@ -77,7 +77,7 @@ Email: [Andyc316@hotmail.com](mailto:Andyc316@hotmail.com)
 GitHub: [github.com/Andyc316/D1-Theory](https://github.com/Andyc316/D1-Theory)  
 Academia.edu: [Search "Andrew Cottham D1"](https://academia.edu)
 
-> **Physicists, students, skeptics — I welcome all feedback. What breaks first?**
+> **Physicists, students, skeptics — I welcome all feedback.**
 
 ---
 
