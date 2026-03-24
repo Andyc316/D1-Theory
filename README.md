@@ -3,9 +3,9 @@
 *Independent Researcher*  
 **November 2025**
 
-D1 Theory is a speculative research framework in which time is treated as the primary dimension and spatial structure emerges dynamically from an underlying scalar degree of freedom.
-This repository collects the papers, calculations, and code used to explore its cosmological and black-hole implications.
-The aim is to present the framework clearly, compare it with standard cosmology, and identify falsifiable predictions.
+D1 Theory is a speculative research framework in which time is treated as the primary dimension, and spatial structure emerges dynamically from an underlying scalar degree of freedom.
+This repository collects the papers, calculations, and code used to explore its cosmological, gravitational, and black-hole implications.
+The aim is to present the framework clearly, compare it with standard cosmology and gravitational theory, and identify falsifiable predictions.
 ---
 
 ## **The 7 Complete Papers** (Recommended Reading Order)
