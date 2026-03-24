@@ -10,6 +10,12 @@ The aim is to present the framework clearly, compare it with standard cosmology 
 
 ## **The 7 Complete Papers** (Recommended Reading Order)
 
+What this repository contains
+research papers developing the D1 framework
+code used for selected numerical checks and reconstructions
+versioned updates where assumptions or calculations have been refined
+links to open-access hosted papers
+
 | # | Title | Figshare • Zenodo |
 |---|-------|-------------------|
 | **1** | **Time as the First Dimension and as Freedom of Movement, and the Emergence of Space** | [Figshare](https://doi.org/10.6084/m9.figshare.30775853) • [Zenodo](https://doi.org/10.5281/zenodo.16793670) |
