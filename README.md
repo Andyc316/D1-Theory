@@ -1,85 +1,127 @@
-# The D1 Unified Field Theory  
-**By Andrew Cottham**  
-*Independent Researcher*  
-**November 2025**
+# D1 Unified Field Theory
 
-D1 Theory is a speculative research framework in which time is treated as the primary dimension, and spatial structure emerges dynamically from an underlying scalar degree of freedom.
-This repository collects the papers, calculations, and code used to explore its cosmological, gravitational, and black-hole implications.
-The aim is to present the framework clearly, compare it with standard cosmology and gravitational theory, and identify falsifiable predictions.
----
+**Andrew Cottham — Independent Theoretical Physics Researcher**
 
-## **The 8 Complete Papers** (Recommended Reading Order)
+D1 Field Theory is a proposed fundamental field framework investigating whether spacetime, gravitation, cosmology and particle-physics phenomena can emerge from the dynamics of an underlying D1 field.
 
-What this repository contains
-research papers developing the D1 framework
-code used for selected numerical checks and reconstructions
-versioned updates where assumptions or calculations have been refined
-links to open-access hosted papers
-
-| # | Title | Figshare • Zenodo |
-|---|-------|-------------------|
-| **1** | **Time as the First Dimension and as Freedom of Movement, and the Emergence of Space** | [Figshare](https://doi.org/10.6084/m9.figshare.30775853) • [Zenodo](https://doi.org/10.5281/zenodo.16793670) |
-| **2** | **Mathematical Formalism of the D1 Field Theory** | [Figshare](https://doi.org/10.6084/m9.figshare.30776420) • [Zenodo](https://doi.org/10.5281/zenodo.16794739) |
-| **3** | **The D1 Unified Field Theory** | [Figshare](https://doi.org/10.6084/m9.figshare.30776528) • [Zenodo](https://doi.org/10.5281/zenodo.17014142) |
-| **4** | **The D1 Theory of Black Holes – Version 2 (November 2025)** – Regular condensate-core solutions and quantitative resolution of the information paradox | **[Figshare v2](10.6084/m9.figshare.30776669)** • **[Zenodo v2](https://doi.org/10.5281/zenodo.17693589)** |
-| **5** | **The D1 Theory of Baryogenesis and Cosmic Acceleration** | [Figshare](https://doi.org/10.6084/m9.figshare.30776981) • [Zenodo](https://doi.org/10.5281/zenodo.17101554) |
-| **6** | **The D1 Cosmological Model: Unification of Baryogenesis and Cosmic Acceleration -Version 2** | [Figshare](https://doi.org/10.6084/m9.figshare.30777359) • [Zenodo](https://doi.org/10.5281/zenodo.17716527) |
-| **7** | **The D1 Field: Unified Dynamics and the Complete Cosmological History (Big Bang to Today)** | [Figshare](https://doi.org/10.6084/m9.figshare.30777428) • [Zenodo](https://doi.org/10.5281/zenodo.17344650) |
-| **8** | **The Universe from One Number: How Today’s Measured Dark-Energy Density Encodes 63 e-folds of Starobinsky-like Inflation and the Entire Cosmic History** | • [Zenodo](https://doi.org/10.5281/zenodo.17790468) |
-
-
-
-> *All papers are open access. Start with #1 for the foundational concept: time is D1, space emerges.*  
-> *Feedback welcome: Andyc316@hotmail.com*
+This repository contains research papers, computational models, numerical experiments and supporting material developed as part of the D1 research programme.
 
 ---
 
-## **Key Predictions of the D1 Theory**  
-*(All derived from one scalar field in 4D — no tuning)*
+## Research Programme
 
-| Prediction | Value / Effect | Observational Test |
-|-----------|----------------|---------------------|
-| **Black Hole Final Burst** | `ΔE ≈ 1.3 × 10⁻³³ eV` soft photons | Diffuse background in CMB/UHECR |
-| **No Planck Remnants** | Evaporation ends at `M = m_D1 = 1.3 × 10⁻³³ eV` | No explosive fireballs |
-| **Dynamical Dark Energy** | `w(z) ≠ -1`, evolves with z | SNIa, BAO, CMB — excludes ΛCDM at **10σ** |
-| **Baryon Asymmetry** | `η = 6.1 × 10⁻¹⁰` | Matches Planck 2018 |
-| **Cosmic Acceleration** | Driven by Φ₁ condensate | `w_0 ≈ -0.95`, `w_a ≈ 0.3` — fits Pantheon+ |
-| **Inflation** | Wave-Trough Collapse of Φ₁ | `n_s ≈ 0.965`, `r < 0.01` — Planck consistent |
-| **Gravitational Wave Speed** | `c_g = c` (exact) | Confirmed by GW170817 |
-| **Quantum Loop Corrections** | `ΔV⁽¹⁾ ∼ 10⁻²⁴⁰ eV⁴` | Dominant only at `M → m_D1` |
-| **Information Paradox** | **Resolved** — unitary via D1 microstates | No loss during evaporation |
-| **Emergent Spacetime** | **3 spatial dimensions emerge from 1 time dimension (D1)** | BH interiors = de Sitter; space folds when `Φ₁ > 10` |
-| **Time as Absolute Freedom** | D1 = freedom of movement | Explains arrow of time, entropy, causality |
-| **UV Cutoff** | `Λ_D1 = 10¹⁹ GeV` (physical) | Finite, no divergences |
-| **Particle Masses** | All SM masses from Φ₁ coupling | Emergent from one action |
-| **Wave-Trough Collapse** | Triggers inflation & spatial unfolding | CMB flatness, homogeneity |
-| **Non-Evolving ΛCDM Benchmark** | `w = -1` excluded | Direct, non-adjustable calculation |
-| **Black Hole Core** | Pure D1 condensate | Regular, non-singular interior |
-| **Late-Time Acceleration** | From Φ₁ kinetic term | No dark energy field needed |
-| **Baryogenesis** | From Φ₁ phase transition | `η` fixed by CMB |
-| **4D Only** | **No extra dimensions** — 3 space + 1 time = 4 total | **Time is fundamental; space is emergent** |
+The D1 research programme investigates a number of connected questions in fundamental physics.
 
----
+### Spacetime and Gravitation
 
-## **Why D1 Stands Out**
-- **One field. One action. 4D spacetime.**
-- **Time is D1 — the first dimension. The three spatial dimensions emerge from it.**
-- **Reverses the standard view: space does not generate time — time generates space.**
-- **No fine-tuning** — all parameters fixed by data (CMB, SNIa, BAO, BBN).
-- **Falsifiable** — clear, unique signals (burst, w(z), no remnants).
-- **Unitary, regular, quantum-consistent** from UV to IR.
+Can the observed structure of spacetime and gravitational dynamics emerge from the underlying D1 field?
+
+A major current objective is to investigate whether Einstein's gravitational equations can be obtained as an effective description of the D1 field.
+
+### Black Holes
+
+D1 research investigates the behaviour of the field in the extreme-energy regime associated with gravitational collapse, including possible non-singular descriptions of black-hole interiors.
+
+### Cosmology
+
+The D1 cosmological programme investigates the evolution of the universe from the early universe through to the present epoch, including inflation, baryogenesis and cosmic acceleration.
+
+### Particle Physics
+
+The D1 framework is also being developed as a possible foundation for particle physics, including investigations of composite Higgs models and discrete vacuum structures.
+
+### Quantum Foundations
+
+A longer-term objective is to investigate whether the D1 framework can provide a common foundation connecting gravitational and quantum descriptions.
 
 ---
 
-## **Contact & Feedback**
-**Andrew Cottham**  
-Email: [Andyc316@hotmail.com](mailto:Andyc316@hotmail.com)  
-GitHub: [github.com/Andyc316/D1-Theory](https://github.com/Andyc316/D1-Theory)  
-Academia.edu: [Search "Andrew Cottham D1"](https://academia.edu)
+# Computational Research
 
-> **Physicists, students, skeptics — I welcome all feedback.**
+This repository contains computational work supporting the D1 research programme.
+
+## GPS Clock Injection and Recovery
+
+### `gps_injection_recovery.py`
+
+This script performs signal injection and recovery testing using real GPS clock data.
+
+The calculation injects a sinusoidal signal into clock residuals, fits a model to the resulting data and evaluates the ability of the analysis to recover the injected signal.
+
+The code provides a computational framework for testing signal-recovery methods against noisy timing data.
 
 ---
 
-*Last updated: November 2025*  
-*Site hosted on GitHub Pages — open source, permanent, free.*
+## Cosmological Reconstruction
+
+### `reconstruction.py`
+
+This script implements a D1 cosmological reconstruction calculation based on the proposed relationship between present-day cosmological parameters and the history of the universe.
+
+The calculation includes the determination of inflationary e-folds from specified model parameters.
+
+This work is associated with the D1 cosmological investigation of whether information about the early universe can be connected to present-day measured quantities.
+
+---
+
+## Inflation and Slow-Roll Parameters
+
+### `slow_roll_parameters`
+
+This calculation investigates standard inflationary slow-roll quantities within the relevant D1 cosmological framework.
+
+The calculations include quantities such as:
+
+- scalar spectral index \(n_s\)
+- tensor-to-scalar ratio \(r\)
+- running of the spectral index
+
+These quantities provide a connection between the theoretical inflationary model and observational cosmology.
+
+---
+
+# Research Papers
+
+The D1 research programme has produced a series of theoretical and computational papers covering cosmology, gravitation, black holes and particle physics.
+
+Research outputs are archived through Zenodo and Figshare.
+
+### Selected research
+
+- *Time as the First Dimension One*
+- *The D1 Unified Field Theory*
+- *The D1 Theory of Baryogenesis and Cosmic Acceleration*
+- *The D1 Field: Unified Dynamics and the Complete Cosmological History (Big Bang to Today)*
+- *The D1 Theory of Black Holes*
+- *The D1 Cosmological Model: Unification of Baryogenesis and Cosmic Acceleration*
+- *The Universe from One Number: How Today's Measured Dark-Energy Density Encodes 63 e-folds of Starobinsky-like Inflation and the Entire Cosmic History*
+- *D1: Deforming the Mexican Hat – Four Discrete Crystalline Vacua in a Natural Composite Higgs Framework*
+- *Unification of General Relativity and Quantum Mechanics via Foundational D1 Field Theory*
+
+The complete research archive is available through Zenodo.
+
+---
+
+# Published Research
+
+## D1 Composite Higgs: Discrete Z₄ Crystalline Vacua – Numerical Confirmation and LHC Phenomenology
+
+Published in the *Journal of Theoretical, Experimental, and Applied Physics*, Volume 2, Issue 3, 2026.
+
+The paper develops a D1 Composite Higgs framework involving discrete \(Z_4\) crystalline vacua and investigates its numerical structure and phenomenological implications for LHC physics.
+
+---
+
+# Repository Structure
+
+```text
+D1-Theory/
+│
+├── Version_2_November_2025/
+│   └── paper 4 v2.2.pdf
+│
+├── gps_injection_recovery.py
+├── reconstruction.py
+├── slow_roll_parameters
+├── requirement.txt
+└── README.md
