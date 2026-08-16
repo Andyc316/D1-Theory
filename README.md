@@ -88,7 +88,7 @@ Research outputs are archived through Zenodo and Figshare.
 
 ### Selected research
 
-- *Time as the First Dimension One*
+- *Time as the First Dimension and as Freedom of Movement, and the Emergence of Space.*
 - *The D1 Unified Field Theory*
 - *The D1 Theory of Baryogenesis and Cosmic Acceleration*
 - *The D1 Field: Unified Dynamics and the Complete Cosmological History (Big Bang to Today)*
