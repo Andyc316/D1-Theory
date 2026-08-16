@@ -10,7 +10,8 @@ residual = data['clock_ps'].values
 # Inject 200 ps annual D1 signal
 phase = 2*np.pi*(t - 80)/365.25
 injected = 200 * np.sin(phase)
-noisy = residual + injected + np.random.normal(0, 20, len(t))
+rng = np.random.default_rng(12345)
+noisy = residual + injected + rng.normal(0, 20, len(t))
 
 # Fit
 from scipy.optimize import curve_fit
