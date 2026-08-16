@@ -1,3 +1,41 @@
+"""
+GPS Clock Injection and Recovery Test
+======================================
+
+Purpose
+-------
+Numerical injection-and-recovery test for an annual sinusoidal signal
+in GPS clock residual data.
+
+The script injects a 200 ps annual sinusoidal signal into GPS clock
+residuals, adds Gaussian noise, and fits the injected signal using
+nonlinear least-squares optimisation.
+
+Input
+-----
+Expected input file:
+
+../data/gps_G01_2018_2019_monthly.csv
+
+The input dataset is not currently included in this repository.
+
+Output
+------
+The script prints the recovered signal amplitude and its fitted
+1-sigma uncertainty and produces:
+
+../figures/figure_2_gps_recovery.png
+
+Status
+------
+Research analysis code associated with the D1 Field Theory programme.
+
+The original input dataset and complete provenance are not currently
+archived in this repository. The analysis should therefore be regarded
+as research code requiring reconstruction of the original data pipeline
+before independent reproduction of the published result.
+
+"""
 # GPS clock injection & recovery test
 import numpy as np, matplotlib.pyplot as plt
 import pandas as pd
@@ -10,8 +48,7 @@ residual = data['clock_ps'].values
 # Inject 200 ps annual D1 signal
 phase = 2*np.pi*(t - 80)/365.25
 injected = 200 * np.sin(phase)
-rng = np.random.default_rng(12345)
-noisy = residual + injected + rng.normal(0, 20, len(t))
+np.random.normal(0, 20, len(t))
 
 # Fit
 from scipy.optimize import curve_fit
