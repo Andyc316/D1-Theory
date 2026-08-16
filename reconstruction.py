@@ -1,10 +1,60 @@
-# D1 Universe from One Number - Exact Sergijenko & Novosyadlyj reconstruction
+"""
+D1 Universe from One Number
+===========================
+
+Numerical scalar-field reconstruction used in the D1 cosmological
+investigation.
+
+Purpose
+-------
+This program reconstructs a scalar field Phi_D1 and its effective
+potential from a specified background cosmological model.
+
+The calculation proceeds through the following chain:
+
+    cosmological parameters
+        -> H(a)
+        -> Phi_D1(a)
+        -> V(Phi_D1)
+        -> epsilon_V
+        -> inflationary e-fold count N
+
+Fiducial parameters
+-------------------
+Omega_m0 = 0.30
+Omega_DE0 = 0.70
+w = -0.99
+
+The calculation uses a logarithmically spaced scale-factor grid
+covering 10^-15 <= a <= 1.
+
+Units
+-----
+The reconstruction is performed in the natural/reduced-Planck-unit
+convention implicit in the scalar-field equations used here.
+
+Output
+------
+The program prints the calculated inflationary e-fold count.
+
+Research status
+---------------
+This is numerical research code associated with the D1 Field Theory
+cosmological programme.
+
+The numerical result should be interpreted as the output of the
+specified reconstruction and parameter assumptions. Independent
+validation requires checking the reconstruction equations, numerical
+convergence and the physical assumptions against the corresponding
+published work and standard cosmological reconstruction methods.
+"""
+# D1 Universe from One Number - Sergijenko & Novosyadlyj reconstruction
 # Produces 62.831 e-folds with Ω_DE = 0.70, w = -0.99
 
 import numpy as np
 from scipy.integrate import cumulative_trapezoid, trapezoid
 
-# 2025 consensus parameters
+# Fiducial cosmological parameters used in this reconstruction
 Om0, Ode0, w = 0.30, 0.70, -0.99
 
 # Scale factor grid (very fine for accuracy)
